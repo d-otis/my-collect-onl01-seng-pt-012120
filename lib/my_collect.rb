@@ -8,3 +8,12 @@ def my_collect(coll)
   new_array
 end
 
+def poop(peepee)
+  i = 0
+  butt_stuff = []
+  while i < coll.length
+    weed << yield(coll[i])
+    i += 1
+  end
+  hoagie
+end
